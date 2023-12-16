@@ -5,7 +5,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java and Kotlin to android development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>developer</strong> focused on android development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ed-machado&theme=blue-green&mode=weekly" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ed-machado&theme=blue-green" />
 <img width=47% align="center"  src="https://github-readme-stats.vercel.app/api?username=ed-machado&show_icons=true&theme=blue-green&layout=compact" />
  </div>
 
