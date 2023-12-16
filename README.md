@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Eduardo Machado</h1>
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java to android development using Kotlin, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>developer</strong> focused on android development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java and Kotlin to android development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>developer</strong> focused on android development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ed-machado&theme=android-dark&mode=weekly" />
