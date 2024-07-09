@@ -1,4 +1,4 @@
-![Header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Header]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://cdn.discordapp.com/attachments/1239605161534554233/1260301282468692059/Banner-Introduction-to-3D-Animation.png?ex=668ed289&is=668d8109&hm=649fd34662c77437bba0ee73afc4eb468618a8a5891c19fa8ba8062d6b21bfa5&))
 
 
 <h1 align="center">Hi 👋, I'm Eduardo Machado</h1>
