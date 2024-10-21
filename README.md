@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<img src="https://www.katalyze.com.br/wp-content/uploads/2021/12/Brandingggg.png" min-width="400px" max-width="410px" width="410px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/40249259/115878252-b8b86b00-a41e-11eb-879a-6376ff0b54fb.png" min-width="400px" max-width="410px" width="410px" align="right" alt="Computador iuriCode">
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
