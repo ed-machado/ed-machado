@@ -38,7 +38,7 @@
 <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div style="margin-top: -80px;">
-  <img src="https://user-images.githubusercontent.com/40249259/115878252-b8b86b00-a41e-11eb-879a-6376ff0b54fb.png" min-width="490px" max-width="490px" width="490px" align="right" alt="Computador iuriCode">
+  <img src="https://user-images.githubusercontent.com/40249259/115878252-b8b86b00-a41e-11eb-879a-6376ff0b54fb.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
 ### 🚀 Programming Languages
