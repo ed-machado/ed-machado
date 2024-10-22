@@ -37,15 +37,14 @@
 
 <br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div style="margin-top: -80px;">
-  <img src="https://user-images.githubusercontent.com/40249259/115878252-b8b86b00-a41e-11eb-879a-6376ff0b54fb.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-</div>
-
 ### 🚀 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1E293B)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E293B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7963DD?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1E293B)
 
+<div style="margin-top: -80px;">
+  <img src="https://user-images.githubusercontent.com/40249259/115878252-b8b86b00-a41e-11eb-879a-6376ff0b54fb.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</div>
 
 ### ⚙️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white&labelColor=1E293B "Spring Boot Framework")
