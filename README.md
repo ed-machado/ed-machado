@@ -67,7 +67,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=FF9900&labelColor=1E293B "Amazon Web Services")
 ![Google GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white&labelColor=1E293B "Google Cloud")
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white&labelColor=1E293B "AWS EC2 Service")
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&labelColor=1E293B "AWS S3 Service")
 ![Route](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF.svg?style=for-the-badge&logo=Amazon-Route-53&logoColor=white&labelColor=1E293B "AWS Route 53 Service")
 ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white&labelColor=1E293B "AWS Lambda Service")
 
