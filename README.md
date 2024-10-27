@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1050&color=42F7A7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=%3E+Hi%2C+I'm+Eduardo+Machado!;%3E++Java%2FSpring+Dev+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1050&color=42F7A7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=%3E+Hi%2C+I'm+Eduardo+Machado!;%3E++Backend+Dev+" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">🌐 A passionate Backend Dev from Brazil 🌐</h3>
