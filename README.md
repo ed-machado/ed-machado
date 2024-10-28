@@ -5,7 +5,7 @@
 <h3 align="center">🌐 A passionate Backend Dev from Brazil 🌐</h3>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Programming Language" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Language" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Programming Language" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="Amazon Web Services (AWS) Icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API Development Icon" width="50" height="50" />
