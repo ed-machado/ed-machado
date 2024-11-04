@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 🚀 **Java Developer** with solid experience in **backend** projects, focused on building scalable and high-performance solutions.
 
-🔧 Skilled in **Spring Boot**, **Python**, **Kotlin**, **Docker**, and **AWS**, I enjoy tackling and solving complex problems, always aiming for **efficiency** and **team collaboration**.
+🔧 Skilled in **Spring Boot**, **Python**, **TypeScript**, **Kotlin**, **Docker**, and **AWS**, I enjoy tackling and solving complex problems, always aiming for **efficiency** and **team collaboration**.
 
 🔗 My hands-on experience includes:
 - Integration of **microservices** with **Kafka** and **RabbitMQ**
