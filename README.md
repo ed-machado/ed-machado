@@ -11,6 +11,8 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API Development Icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Containerization Platform Icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Database Icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
